@@ -20,7 +20,7 @@
         "href": "/apparel---accessories/",
         "noFollow": false,
         "tagTitle": "Apparel & Accessories",
-        "text": "Apparel & Accessories"
+        "text": "Masculino"
       }
     },
     "blocks": [
@@ -101,7 +101,7 @@
         "href": "/home---decor/",
         "noFollow": false,
         "tagTitle": "Home & Decor",
-        "text": "Home & Decor"
+        "text": "Feminino"
       }
     }
   },
@@ -144,7 +144,7 @@
   },
   "flex-layout.col#menu-more-2": {
     "children": [
-      "info-card#home"
+      
     ]
   },
   "vtex.menu@2.x:menu#more": {

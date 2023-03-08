@@ -1,0 +1,7 @@
+.flexRow--wrapper__top-bar{
+    background-color: #4b5563;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}

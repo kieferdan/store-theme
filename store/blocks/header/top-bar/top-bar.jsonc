@@ -1,0 +1,16 @@
+{
+    "flex-layout.row#top-bar": {
+        "props": {
+            "blockClass": "wrapper__top-bar"
+        },
+        "children": [
+            "rich-text#freight-text"
+        ]
+    },
+    "rich-text#freight-text": {
+        "props": {
+            "text": "Frete Grátis em compras acima de R$250",
+            "blockClass": "top-bar__freight-text"
+        }
+    }
+}
